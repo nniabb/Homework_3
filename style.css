@@ -1,0 +1,31 @@
+h1{
+    background-color: rgb(122, 190, 190);
+}
+h2{
+    background-color: rgb(123, 167, 167);
+}
+th {
+    background-color: rgb(134, 176, 224);
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+}
+td{
+    background-color:rgb(66, 115, 170) ;
+    text-align: center;
+    height: 25px;
+    border-radius: 5px;
+}
+table{
+    background-color: black;
+    padding:3px;
+    border-spacing: 0.5ch;
+    border-radius: 5px;
+
+}
+.video{
+    margin-top: 30px;
+}
+.pic{
+    width: 400px;
+}
